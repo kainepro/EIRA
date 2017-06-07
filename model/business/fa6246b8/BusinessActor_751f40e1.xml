@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citizen"
+    id="751f40e1"
+    documentation="A Citizens is a consumers of Public Services">
+  <properties
+      key="ID"
+      value="ABB8"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

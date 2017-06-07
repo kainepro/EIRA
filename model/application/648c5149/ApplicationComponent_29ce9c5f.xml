@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Component"
+    id="29ce9c5f"
+    documentation="A Test Component encapsulates the functionalities for conformance and interoperability testing.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB129"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

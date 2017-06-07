@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Hosting Facility"
+    id="e66cab25"
+    documentation="A Public Hosting Facility is a Hosting Facility which is owned by a third party and shared between organizations (e.g. cloud services).&#xA;">
+  <properties
+      key="ID"
+      value="ABB193"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:Node>

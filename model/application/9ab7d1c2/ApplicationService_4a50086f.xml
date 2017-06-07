@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Archiving Service"
+    id="4a50086f"
+    documentation="An e-Archiving Service enables the permanent or long-term storage of selected (by an authority) electronic documents or information for preservation purposes like their enduring research value and memory aid. &#xD;&#xA;&#xD;&#xA;The EIRA differentiates between document management, record management and e-archiving as follows:&#xD;&#xA;- Document management is primarily about day-to-day use of electronic documents (create/update/delete/versioning) within the operational environment.&#xD;&#xA;- Record management is primarily about ensuring that information (e.g. in form of an electronic document or database record) is available for business and legal purposes (e.g. to proof and track the handling of contracts). If an electronic document or information is becoming a record (an authority declares it as a record) that electronic document or information needs to be handled by the record management service (based on specific business or legal reasons (e.g. contract negotiation)).&#xD;&#xA;- e-Archiving is primarily about storing records which have been selected (by an authority) for permanent or long-term preservation due to their enduring research value and as a memory aid. An electronic document or information which a) is managed by the document management service or the record management service and b) is no longer needed for business or legal purposes or day-to-day activities, and c) still has value for research purposes or as a memory aid, the electronic document should be managed by the e-archiving service&quot;.">
+  <properties
+      key="ID"
+      value="ABB156"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:title"
+      value="e-Archiving Service"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

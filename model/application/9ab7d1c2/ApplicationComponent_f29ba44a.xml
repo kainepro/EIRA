@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Registry Component"
+    id="f29ba44a"
+    documentation="A Service Registry Component encapsulates the service registration functionality.">
+  <properties
+      key="ID"
+      value="ABB133"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

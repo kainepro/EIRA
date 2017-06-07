@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e0becb8c"
+    documentation="A [Legal Interoperability Specification] is associated to [Public Policy Formulation and Implement Instrument] ">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e3332dd3.xml#e3332dd3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1eb97ddc.xml#1eb97ddc"/>
+</archimate:AssociationRelationship>

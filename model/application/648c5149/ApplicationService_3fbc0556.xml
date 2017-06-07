@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Transformation Service"
+    id="3fbc0556"
+    documentation="A Data Transformation Service converts data. This includes the conversion from one data format to another. &#xA;">
+  <properties
+      key="ID"
+      value="ABB40"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Policy"
+    id="e253a78a"
+    documentation="An Organisational Policy defines a set of principles, rules, and guidelines in an organisation. [source: European Interoperability Framework &#xD;&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf]">
+  <properties
+      key="ID"
+      value="ABB18"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

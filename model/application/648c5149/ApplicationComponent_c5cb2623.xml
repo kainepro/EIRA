@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Transformation Component"
+    id="c5cb2623"
+    documentation="A Data Transformation Component encapsulates the data transformation functionalities exposed through the Data Transformation Service.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB61"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

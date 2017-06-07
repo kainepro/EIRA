@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definition of Public Policy Objectives"
+    id="c0bba770"
+    documentation="A Definition of Public Policy Objectives is a stage where public policy objectives are defined.&#xA;&#xA;Source: Based on the concepts laid out in http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB103"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is realised by"
+    id="323a967f"
+    documentation="A [Public Policy] is realised by a [Public Policy Formulation and Implementation Instrument]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1eb97ddc.xml#1eb97ddc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7c12e5e3.xml#7c12e5e3"/>
+</archimate:AssociationRelationship>

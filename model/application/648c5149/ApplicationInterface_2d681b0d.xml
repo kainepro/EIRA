@@ -1,0 +1,15 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine to Machine Interface"
+    id="2d681b0d"
+    documentation="A Machine to Machine Interface is a description of a boundary between a system and other systems, usually including the mechanisms by which information is transferred. [DG TAXUD]">
+  <properties
+      key="ID"
+      value="ABB38"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Management Service"
+    id="7ea18383"
+    documentation="A Records Management Service enables the classification, storage, access, and disposal of the records of an organization from the time they are captured (e.g. creation of an internal document or reception of an external document) up to their eventual disposal. Electronic records are document(s) in digital format produced or received by a person or organisation in the course of business, and retained by that person or organisation.&#xD;&#xA;&#xD;&#xA;The definition of a Record Management Service includes a differentiation towards record management and e-archiving.&#xD;&#xA;&#xD;&#xA;Source: Based on the archival policy of the European Commission&#xD;&#xA;http://ec.europa.eu/archival-policy/moreq/doc/moreq_en.pdf">
+  <properties
+      key="ID"
+      value="ABB50"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schema-level Mapping"
+    id="7170d2a5"
+    documentation="A Schema-level Mapping is a mapping between related classes and properties [source: ISO/DIS 25964-2].">
+  <properties
+      key="ID"
+      value="ABB212"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

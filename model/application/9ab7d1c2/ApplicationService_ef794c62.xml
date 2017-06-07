@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Management Service"
+    id="ef794c62"
+    documentation="A Document Management Service enables the organisation and  categorization of electronic documents in order to store, publish and reuse these documents in multiple contexts. For a differentiation  between ERMS and EDMS visit section 10.3 of Moreq: http://ec.europa.eu/archival-policy/moreq/doc/moreq_en.&#xD;&#xA;&#xD;&#xA;The definition of a Record Management Service includes a differentiation towards record management and e-archiving.&#xA;">
+  <properties
+      key="ID"
+      value="ABB136"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

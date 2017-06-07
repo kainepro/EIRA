@@ -1,0 +1,18 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Set"
+    id="e3d8adda"
+    documentation="A Data Set is a collection of data, published or curated by a single agent, and available for access or download in one or more formats [source: W3C, &#xD;&#xA;http://www.w3.org/TR/vocab-dcat/#class-dataset].&#xA;&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB23"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="nature"
+      value="[ Structured | Unstructured ]"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

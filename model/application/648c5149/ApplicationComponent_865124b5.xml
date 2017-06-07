@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process Management Component"
+    id="865124b5"
+    documentation="A Business Process Management Component encapsulates the functionalities for the orchestration/choreography of business processes.&#xA;">
+  <properties
+      key="ID"
+      value="ABB186"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

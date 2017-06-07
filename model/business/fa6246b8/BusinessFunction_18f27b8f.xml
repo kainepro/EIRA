@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Capability"
+    id="18f27b8f"
+    documentation="A Business Capability is the expression or the articulation of the capacity, materials and expertise an organization needs in order to perform core functions. Enterprise architects use business capabilities to illustrate the over-arching needs of the business in order to better strategize IT solutions that meet those business needs.">
+  <properties
+      key="ID"
+      value="ABB12"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessFunction>

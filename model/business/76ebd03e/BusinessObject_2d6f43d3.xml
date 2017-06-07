@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation Catalogue"
+    id="2d6f43d3"
+    documentation="A Legislation Catalogue is a set of legal documents.">
+  <properties
+      key="ID"
+      value="ABB165"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

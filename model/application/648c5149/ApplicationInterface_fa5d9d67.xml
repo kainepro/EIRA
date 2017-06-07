@@ -1,0 +1,15 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Interface"
+    id="fa5d9d67"
+    documentation="A Human Interface is a specific interface between the human users of an IT system and the programs providing screen or printed results. It is frequently regarded as a dedicated set of programs, separate from those which extract and process data. [DG TAXUD]">
+  <properties
+      key="ID"
+      value="ABB37"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Standard Catalogue"
+    id="10357678"
+    documentation="A Data Standard Catalogue is a catalogue of Data Standards. ">
+  <properties
+      key="ID"
+      value="ABB211"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

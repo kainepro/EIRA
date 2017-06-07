@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration"
+    id="252d96d0"
+    documentation="A Public Administration is an organisational entity that provides and/or consumes Public Services.">
+  <properties
+      key="ID"
+      value="ABB172"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

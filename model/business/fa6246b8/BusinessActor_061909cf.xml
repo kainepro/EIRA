@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business"
+    id="061909cf"
+    documentation="A Business is an organisational entity that provides and/or consumes Public Services. This includes non-governmental organisations and not-for-profit organisations.  [European Interoperability Framework]">
+  <properties
+      key="ID"
+      value="ABB169"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audiovisual Service"
+    id="67d0805f"
+    documentation="An Audiovisual Service enables the broadcast of audio and video content over the internet or satellite.&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB54"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

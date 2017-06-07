@@ -1,0 +1,22 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Non-binding Instrument"
+    id="ff8a3db9"
+    documentation="A Non-binding Instrument is a set of recommendations and opinions, as well as rules governing how EU institutions and programmes work, etc. &#xD;&#xA;&#xD;&#xA;Source: http://europa.eu/legislation_summaries/glossary/community_legal_instruments_en.htm ">
+  <properties
+      key="dct:type"/>
+  <properties
+      key="ID"
+      value="ABB113"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:title"
+      value="Non-binding Instrument"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:spatial"/>
+  <properties
+      key="requirement_or_constraint"/>
+</archimate:BusinessObject>

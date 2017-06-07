@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences"
+    id="bea4123f"
+    documentation="A [Data Policy] influences [Representation]">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_5fad425e.xml#5fad425e"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_8b72c60c.xml#8b72c60c"/>
+</archimate:AssociationRelationship>

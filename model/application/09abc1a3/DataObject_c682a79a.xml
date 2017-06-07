@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data"
+    id="c682a79a"
+    documentation="Data is facts represented as text, numbers, graphics, images, sound, or video. Data is the raw material used to represent information, or from which information can be derived [source: DAMA DM_BOK, http://www.dama.org].&#xA;">
+  <properties
+      key="ID"
+      value="ABB22"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

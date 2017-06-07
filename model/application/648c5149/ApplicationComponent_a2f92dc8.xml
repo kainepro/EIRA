@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperable European Solution"
+    id="a2f92dc8"
+    documentation="An Interoperable European Solution (IES) is a solution, developed by Public Administrations that facilitate the delivery of electronic Public Services and cross-border exchange of information between Public Administrations (or Citizens) in support to the implementation and advancement of EU, national or local Public Policies.&#xD;&#xA;&#xD;&#xA;Source: This IES definition was derived from the Trans-European Systems definition.">
+  <properties
+      key="ID"
+      value="ABB60"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="policy_area_extension"
+      value="[ yes | no ]"/>
+  <properties
+      key="reusability"
+      value="[ reuse planned | already reused ]"/>
+  <properties
+      key="reusability_bool"
+      value="[ yes | no ]"/>
+  <properties
+      key="actual policy coverage"
+      value="[ sectoral | multisectoral | cross sectoral ]"/>
+</archimate:ApplicationComponent>

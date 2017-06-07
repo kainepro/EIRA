@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Data"
+    id="4c392ef8"
+    documentation="Transactional Data is data that covers the business information related to business transactions and information exchanges [source: based on DAMA DM_BOK, http://www.dama.org].&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB185"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

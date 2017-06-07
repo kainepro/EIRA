@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Organisational Authority"
+    id="039f357d"
+    documentation="An Interoperability Organisational Authority is an organisation holding the responsibility for interoperability governance under the mandate/approach of a Public Policy. Examples are ISA at European level and CIO at national level.">
+  <properties
+      key="ID"
+      value="ABB205"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

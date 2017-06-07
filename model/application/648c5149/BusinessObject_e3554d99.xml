@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Scenario"
+    id="e3554d99"
+    documentation="A Test Scenario defines the different test cases which needs to be performed by the Test Service. Each scenario (actual) outcome is validated against the pre-defined expected outcome.&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB130"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence Component"
+    id="54165eba"
+    documentation="A Business Intelligence Component encapsulates the functionalities exposed through the Business Analytics Service.">
+  <properties
+      key="ID"
+      value="ABB66"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

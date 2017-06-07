@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="defines the interoperability aspects for"
+    id="d17aed54"
+    documentation="An [Organisational Interoperability Specification] defines the interoperability aspects for a [Public Service Catalogue] (contents and the catalogue as a whole).">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_88463b4f.xml#88463b4f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3e30eb08.xml#3e30eb08"/>
+</archimate:AssociationRelationship>

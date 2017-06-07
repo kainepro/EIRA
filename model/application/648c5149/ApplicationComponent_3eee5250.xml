@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit and Logging Component"
+    id="3eee5250"
+    documentation="An Audit and Logging Component encapsulates the functionalities for auditing and logging of events.&#xD;&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB71"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

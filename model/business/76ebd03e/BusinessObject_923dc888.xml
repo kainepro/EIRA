@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Development Enabler"
+    id="923dc888"
+    documentation="A Public Policy Development Enabler is an organisation or thing that make the development and implementation of the Public Policy possible. [Oxford Dictionary]&#xD;&#xA;&#xD;&#xA;Source: http://www.oxforddictionaries.com/definition/english/enabler">
+  <properties
+      key="ID"
+      value="ABB167"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

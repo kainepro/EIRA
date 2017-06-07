@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Management Service"
+    id="9a931a9f"
+    documentation="A Partner Management Service enables the management of the consumers of the services offered by the different components (i.e. the Partners) to ensure scalability. It enables the management of IES' interoperability agreements. [SOA Backplane Reference Model of Gartner]">
+  <properties
+      key="ID"
+      value="ABB140"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

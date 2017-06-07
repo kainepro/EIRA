@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Mangement Component"
+    id="76e9237f"
+    documentation="An Identity Management Component encapsulates the functionalities for the authentication of users.&#xD;&#xA;&#xD;&#xA;The eIDAS Regulation provides the following definitions:&#xD;&#xA;‘electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person;&#xD;&#xA;‘authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;&#xD;&#xA;&#xD;&#xA;Source: REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB158"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

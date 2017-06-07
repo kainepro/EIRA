@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Timestamp Creation Service"
+    id="51544433"
+    documentation="An e-Timestamp Creation Service is used for the verification of timestamps used for establishing evidence that a give piece of data existed at a given point in time.&#xD;&#xA;&#xD;&#xA;According to the eIDAS Regulation, ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time.&#xD;&#xA;&#xD;&#xA;Source: REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB201"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:title"
+      value="e-Timestamp Creation Service"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

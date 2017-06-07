@@ -1,0 +1,18 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Agreement"
+    id="bd38f75f"
+    documentation="An Interoperability Agreement is the means through which organisations (public administrations, or businesses) formalises the cooperation with one another. These agreements aim at the development of interoperability solutions, which meets the functional / technical requirements and needs of one another. [European Interoperability Framework]&#xD;&#xA;&#xD;&#xA;The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s).&#xD;&#xA;&#xD;&#xA;The EIRA differentiates the following Interoperability Agreements:&#xD;&#xA;- Interoperability Service Agreement (between Public Service Consumers and Public Service Providers;&#xD;&#xA;- Interoperability Collaboration Agreement (between Organisations); or&#xD;&#xA;- Interoperability Provider Agreement (between Public Service Providers).&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB119"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="interoperability_type"
+      value="[Collaboration agreement | Provider agreement | Service agreement]"/>
+</archimate:Contract>

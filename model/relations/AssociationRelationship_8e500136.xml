@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="applies to"
+    id="8e500136"
+    documentation="A [Business Rule] applies to [Business Information]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ff00f8dc.xml#ff00f8dc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bb72fac6.xml#bb72fac6"/>
+</archimate:AssociationRelationship>

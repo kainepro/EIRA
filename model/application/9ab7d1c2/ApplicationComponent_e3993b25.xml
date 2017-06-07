@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchange Component"
+    id="e3993b25"
+    documentation="A Data Exchange Component encapsulates the functionalities for secure data exchange.&#xA;">
+  <properties
+      key="ID"
+      value="ABB64"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

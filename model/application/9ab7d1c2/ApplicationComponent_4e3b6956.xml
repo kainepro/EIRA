@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Archiving Component"
+    id="4e3b6956"
+    documentation="An e-Archiving Component encapsulates the functionalities for electronic archiving of documents.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB157"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:title"
+      value="e-Archivining Component"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

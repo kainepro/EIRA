@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Data Model"
+    id="0b490ce9"
+    documentation="A context-neutral data model that captures the fundamental characteristics of an entity [Source: Core Vocabularies Handbook, https://joinup.ec.europa.eu/site/core_vocabularies/Core_Vocabularies_user_handbook/ ].">
+  <properties
+      key="ID"
+      value="ABB194"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

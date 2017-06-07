@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forms Management Component"
+    id="82c0e847"
+    documentation="A Forms Management Component encapsulates the functionalities for the management of forms.&#xA;">
+  <properties
+      key="ID"
+      value="ABB77"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

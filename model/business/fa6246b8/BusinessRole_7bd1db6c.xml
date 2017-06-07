@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Provider"
+    id="7bd1db6c"
+    documentation="A Public Service Provider is a Public Administration or Business providing Public Services financed through public resource. [DG Competition]&#xD;&#xA;&#xD;&#xA;Source: &#xD;&#xA;http://ec.europa.eu/competition/state_aid/overview/public_services_en.html">
+  <properties
+      key="ID"
+      value="ABB174"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessRole>

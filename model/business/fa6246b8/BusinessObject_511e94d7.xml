@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Governance"
+    id="511e94d7"
+    documentation="Interoperability Governance is an organisational procedures for the governance of interoperability usually under the mandate/approach of a public policy. Examples are the comitology procedures for ISA at European level.">
+  <properties
+      key="ID"
+      value="ABB214"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

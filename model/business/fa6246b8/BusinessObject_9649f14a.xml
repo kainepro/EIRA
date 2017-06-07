@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Enabler"
+    id="9649f14a"
+    documentation="An Organisational Interoperability Enabler consists of elements which describe the functions, principles, rules, and policies in an organisation. These enablers act as sources for the business rules of an organisation.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB171"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

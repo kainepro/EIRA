@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Resource"
+    id="5cf7cdc3"
+    documentation="A Financial Resource is money in the form of cash, securities, creditors, loan facilities, etc.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB116"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

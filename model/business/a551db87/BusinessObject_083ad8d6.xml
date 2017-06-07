@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Interoperability Specification"
+    id="083ad8d6"
+    documentation="A Technical Interoperability Specifications defines a necessary attribute that shall be fully met to support technical interoperability. ">
+  <properties
+      key="ID"
+      value="ABB178"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

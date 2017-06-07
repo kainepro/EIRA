@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Management Component"
+    id="40d84c6f"
+    documentation="A Partner Management Component encapsulates the functionalities for managing the consumers of services. [SOA Backplane Reference Model of Gartner]">
+  <properties
+      key="ID"
+      value="ABB141"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

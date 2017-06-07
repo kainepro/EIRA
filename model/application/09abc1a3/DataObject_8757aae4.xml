@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data"
+    id="8757aae4"
+    documentation="Reference Data is any data used to organise or categorise other data, or for relating data to information both within and beyond the boundaries of the enterprise. Usually consists of codes and descriptions or definitions [source: DAMA DM_BOK, http://www.dama.org].&#xD;&#xA;&#xD;&#xA;Reference data consists typically of a small, discrete set of values that are not updated as part of business transactions but are usually used to impose consistent classiﬁcation. Reference data normally has a low update frequency. Reference data is relevant across more than one business systems belonging to different organisations and sectors [source: J. Jordan &amp; C. Ellen (2009). Business need, data and business intelligence]. ">
+  <properties
+      key="ID"
+      value="ABB27"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

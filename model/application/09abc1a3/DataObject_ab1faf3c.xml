@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Character Encoding Scheme"
+    id="ab1faf3c"
+    documentation="A Character Encoding Scheme reflects the way a chosen character set is mapped to bytes for manipulation in a computer [W3C]. An example is the UTF-8 standard.">
+  <properties
+      key="ID"
+      value="ABB179"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

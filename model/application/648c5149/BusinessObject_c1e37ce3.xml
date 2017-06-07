@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Procedure"
+    id="c1e37ce3"
+    documentation="An Operational Procedure defines the process of operating a solution, how the procedures are implemented and the rules for operating it.">
+  <properties
+      key="ID"
+      value="ABB126"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

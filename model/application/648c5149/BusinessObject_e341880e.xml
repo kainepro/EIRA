@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Specification"
+    id="e341880e"
+    documentation="A Technical Specification is a document describing the functional/technical specifications of a solution.">
+  <properties
+      key="ID"
+      value="ABB125"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

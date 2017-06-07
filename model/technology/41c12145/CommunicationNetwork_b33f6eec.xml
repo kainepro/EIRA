@@ -1,0 +1,21 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network"
+    id="b33f6eec"
+    documentation="A Network realises the physical communication layer among nodes participating in an Interoperable European Solution.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB92"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="reusability"
+      value="[ reuse planned | already reused ]"/>
+  <properties
+      key="reusability_bool"
+      value="[ yes | no ]"/>
+</archimate:CommunicationNetwork>

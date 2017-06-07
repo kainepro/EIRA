@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Service"
+    id="abc6e360"
+    documentation="A Content Management Service enables the organisation and categorisation of information resources so that they can be stored, published and reused in multiple contexts. [DAMA]&#xD;&#xA;&#xD;&#xA;Source:  http://www.dama.org/">
+  <properties
+      key="ID"
+      value="ABB51"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

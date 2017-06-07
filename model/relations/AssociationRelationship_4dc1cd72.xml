@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="incorporates"
+    id="4dc1cd72"
+    documentation="A [Representation] incorporates a [Data Standard]">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_5fad425e.xml#5fad425e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_53d8df8a.xml#53d8df8a"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Service Provisioning Component"
+    id="c4be948f"
+    documentation="A Trust Service Provisioning Component is a component that provides trust services. &#xD;&#xA;&#xD;&#xA;According to the eIDAS Regulation, a ‘trust service’ means an electronic service normally provided for remuneration which consists of:&#xD;&#xA;(a) the creation, verification, and validation of electronic signatures, electronic seals or electronic time stamps, electronic registered delivery services and certificates related to those services, or&#xD;&#xA;(b) te creation, verification and validation of certificates for website authentication; or&#xD;&#xA;(c) the preservation of electronic signatures, seals or certificates related to those services.&#xD;&#xA;&#xD;&#xA;Source: REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.">
+  <properties
+      key="ID"
+      value="ABB69"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Structure"
+    id="32aed6e7"
+    documentation="An Organisational Structure is the pattern of the distribution of work, flow of communications and instructions in the organisation required to fulfil the organisational objectives.&#xD;&#xA;The way an organisation is set up: &#xD;&#xA;- matrix-organisation? &#xD;&#xA;- central/federated model?&#xD;&#xA;&#xD;&#xA;[Jayantee Saha - 2006 Management and Organizational Behaviour]">
+  <properties
+      key="ID"
+      value="ABB14"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

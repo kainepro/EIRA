@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service"
+    id="502fa249"
+    documentation="A Public Service is an economic activity that public authorities identify as being of particular importance to citizens, businesses and public administrations and that would not be supplied (or would be supplied under different conditions) if there were no public intervention. &#xD;&#xA;&#xD;&#xA;Source: Based on DG Competition&#xD;&#xA;http://ec.europa.eu/competition/state_aid/overview/public_services_en.html&#xD;&#xA;&#xD;&#xA;A public service is the capacity to carry out a procedure and exists whether it is used or not. It is a set of deeds and acts performed by or on behalf of a public agency for the benefit of a citizen, a business or another public agency. &#xD;&#xA;https://joinup.ec.europa.eu/site/core_public_service/rdfs.html#PublicService&#xD;&#xA;&#xD;&#xA;A Public Service is considered also based on the commitment to provide it by its provider, regardless of whether or not it is actively being offered.">
+  <properties
+      key="ID"
+      value="ABB1"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessService>

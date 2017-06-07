@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Catalogue"
+    id="88463b4f"
+    documentation="A Public Service Catalogue is a repository, with information on all public services. It represents the collection of the offered public services. [ITIL v3]">
+  <properties
+      key="ID"
+      value="ABB124"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

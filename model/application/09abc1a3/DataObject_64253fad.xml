@@ -1,0 +1,18 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data"
+    id="64253fad"
+    documentation="Master Data is the authoritative, most accurate data that is available about key business entities, used to establish the context for business transactions and transactional data [source: DAMA DM_BOK, http://www.dama.org].&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB181"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="skos:altLabel"
+      value="Base Register"/>
+</archimate:DataObject>

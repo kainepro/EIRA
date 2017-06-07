@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formulation of Public Policy Scenarios"
+    id="2b5e1a9b"
+    documentation="A Formulation of Public Policy Scenarios is a stage where a number of public policy options for addressing the problem and achieving the public policy objectives are developed.&#xA;&#xA;Source: Based on the concepts laid out in http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB104"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessProcess>

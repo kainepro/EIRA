@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifier Scheme"
+    id="0c37d543"
+    documentation="An Identifier Schema defines the values of an identifier  [source: CEN BII http://spec.cenbii.eu/].&#xA;">
+  <properties
+      key="ID"
+      value="ABB29"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

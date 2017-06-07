@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specification"
+    id="cef5fb30"
+    documentation="A Specification is  a document that states requirements. A specification can be related to activities (e.g. procedure document, process specification and test specification), or products  (e.g. product specification, performance specification and drawing). [ISO 9000:2005] &#xD;&#xA;&#xD;&#xA;Source : https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-3:v1:en:term:3.7.3">
+  <properties
+      key="ID"
+      value="ABB163"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

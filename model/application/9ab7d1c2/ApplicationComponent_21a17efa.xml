@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Publication Component"
+    id="21a17efa"
+    documentation="A Data Publication Component encapsulates the functionalities for data publication services.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB209"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

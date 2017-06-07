@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation"
+    id="7cc1e5b6"
+    documentation="An Organisation is an entity that provides and/or consumes Public Services.">
+  <properties
+      key="ID"
+      value="ABB7"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessActor>

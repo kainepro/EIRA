@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Set Catalogue"
+    id="5dbe8d57"
+    documentation="A Data Set Catalogue is a curated collection of datasets [source: W3C, &#xD;&#xA;http://www.w3.org/TR/vocab-dcat/#class-catalog].&#xA;">
+  <properties
+      key="ID"
+      value="ABB24"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

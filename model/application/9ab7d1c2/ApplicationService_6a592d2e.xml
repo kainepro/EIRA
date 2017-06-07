@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Payment Service"
+    id="6a592d2e"
+    documentation="An e-Payment Service enables the execution of payment transactions where the consent of the payer to execute a payment transaction is given by means of any telecommunication, digital or IT device. [Directive 2007/64/EC]&#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0064:EN:NOT&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB48"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:title"
+      value="e-Payment Service"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

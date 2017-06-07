@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Validation Component"
+    id="ea5bedf1"
+    documentation="A Data Validation Component encapsulates the data validation functionalities exposed through the Data Validation Service.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB63"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

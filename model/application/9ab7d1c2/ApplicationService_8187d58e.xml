@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration and Monitoring Service"
+    id="8187d58e"
+    documentation="An Administration and Monitoring Service enables the administration and monitoring of services offered by the different components. [SOA Backplane Reference Model of Gartner]&#xA;">
+  <properties
+      key="ID"
+      value="ABB137"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

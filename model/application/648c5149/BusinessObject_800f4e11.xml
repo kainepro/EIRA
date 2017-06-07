@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Management"
+    id="800f4e11"
+    documentation="A Configuration management is the means of maintaining Interoperable European Solutions to safeguard the performance of these solution. This includes change management, versioning, etc.">
+  <properties
+      key="ID"
+      value="ABB127"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

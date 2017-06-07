@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Development Mandate"
+    id="5fec402f"
+    documentation="A Public Policy Development Mandate is the capacity and authority to carry out tasks within a specific policy domain. [European Interoperability Strategy]">
+  <properties
+      key="ID"
+      value="ABB112"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

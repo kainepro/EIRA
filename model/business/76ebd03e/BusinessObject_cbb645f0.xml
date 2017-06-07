@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementing Guideline"
+    id="cbb645f0"
+    documentation="An Implementing Guideline is a set of instructions that provides insight into how to implement a policy.&#xA;">
+  <properties
+      key="ID"
+      value="ABB117"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

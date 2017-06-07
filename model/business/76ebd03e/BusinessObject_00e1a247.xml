@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Development Approach"
+    id="00e1a247"
+    documentation="A Public Policy Development Approach is the delegation model used to enforce the policy (centralised vs. decentralised). [European Interoperability Strategy]">
+  <properties
+      key="ID"
+      value="ABB111"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

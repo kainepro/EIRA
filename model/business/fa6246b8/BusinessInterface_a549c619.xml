@@ -1,0 +1,15 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Delivery Model"
+    id="a549c619"
+    documentation="A Service Delivery Model defines how the organisation arranges the delivery of its services to service consumers. This includes:&#xD;&#xA;- How will the service be delivered (e.g. multi-channel, SPOCs, only once)?&#xD;&#xA;- How will the interaction between the service provider and service consumer take place?&#xD;&#xA;- How will certain situations be handled (e.g. incident management)?&#xD;&#xA;- How will the support &amp; maintenance look like? [ITIL v3]&#xD;&#xA;&#xD;&#xA;Source: http://www.itil-officialsite.com/&#xA;">
+  <properties
+      key="ID"
+      value="ABB15"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessInterface>

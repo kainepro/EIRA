@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Binding Instrument"
+    id="e75f0755"
+    documentation="A Binding Instrument is a legal instrument that expresses something which is obligatory.&#xD;&#xA;&#xD;&#xA;Source: &#xD;&#xA;Based on the concepts laid out in http://europa.eu/legislation_summaries/glossary/community_legal_instruments_en.htm">
+  <properties
+      key="ID"
+      value="ABB17"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="requirement_or_constraint"/>
+  <properties
+      key="dct:spatial"/>
+</archimate:BusinessObject>

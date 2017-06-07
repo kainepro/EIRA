@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting Service"
+    id="7db3adb0"
+    documentation="A Hosting  Service is a service provided by a hosting provider. [DIGIT C Infrastructure Services Provision]&#xD;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB151"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

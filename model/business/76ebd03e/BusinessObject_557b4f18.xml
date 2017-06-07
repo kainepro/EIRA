@@ -1,0 +1,19 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Requirement or Constraint"
+    id="557b4f18"
+    documentation="A Legal Requirement or Constraint is a legal text that mandates and/or guides the creation of an Interoperable European Solution.">
+  <properties
+      key="ID"
+      value="ABB164"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="requirement_or_constraint"/>
+  <properties
+      key="dct:spatial"/>
+</archimate:BusinessObject>

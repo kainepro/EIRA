@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit  Service"
+    id="0c2b5682"
+    documentation="An Audit Service provides support for the principle of accountability, that is holding users of a system accountable for their actions within the system, and detection of policy violations. The audit policy defines the elements of an information system which need to be traced,  for example to assure tracability of actions: what, how, when, where and with what.&#xD;&#xA;&#xD;&#xA;Inspired by: http://www.opengroup.org/security/das/xdas_int.htm">
+  <properties
+      key="ID"
+      value="ABB58"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestration Service"
+    id="06ef316e"
+    documentation="Orchestration identifies a sets of transactions involving use of other services and functionalities, according to business rules embodied in one or more documented business processes, with the ultimate goal of performing or providing some other value-added function or service.&#xA;The Orchestration Service executes all the required transactions and routes the inputs and outputs of processes according to rules described in a standard language (i.e. BPEL). [European Interoperability Framework]&#xA;&#xA;Source:&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB45"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

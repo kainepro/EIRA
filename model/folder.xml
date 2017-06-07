@@ -1,0 +1,199 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA v1.0.0"
+    id="3d54d4b1"
+    purpose="This  file provides the ArchiMate model of the European Interoperability Reference Architecture (EIRA). The EIRA has been developed in the context of Action 2.1 of the Interoperability Solutions for European Public Administrations (ISA) Programme. The EIRA is a reference architecture focused on the interoperability of digital public services. It is composed of the most important architecture building blocks needed to promote cross-border and cross-sector interactions between public administrations. It is based on the Service Oriented Architecture style and uses ArchiMate as a modelling notation. The EIRA implements the European Interoperability Framework (EIF) . &#xD;&#xA;&#xD;&#xA;The latest release of the EIRA is available on Joinup: https://joinup.ec.europa.eu/asset/eia/description &#xA;"
+    version="4.0.0">
+  <properties
+      key="actual policy coverage"/>
+  <properties
+      key="adms:identifier"
+      value="identifier"/>
+  <properties
+      key="adms:includedAsset"
+      value="included_asset"/>
+  <properties
+      key="adms:interoperabilityLevel"
+      value="interoperability_level"/>
+  <properties
+      key="adms:last"
+      value="last_version"/>
+  <properties
+      key="adms:nextn"
+      value="ext_version"/>
+  <properties
+      key="adms:prev"
+      value="previous_version"/>
+  <properties
+      key="adms:representationTechnique"
+      value="representation_technique"/>
+  <properties
+      key="adms:sample"
+      value="sample"/>
+  <properties
+      key="adms:status"
+      value="status"/>
+  <properties
+      key="adms:translation"
+      value="translation"/>
+  <properties
+      key="adms:versionNotes"
+      value="version_notes"/>
+  <properties
+      key="admssw:tagURL"
+      value="tag_url"/>
+  <properties
+      key="area_of_interoperability"
+      value="[ service consumption | service delivery | service provisioning | service orchestration | service choreography ]"/>
+  <properties
+      key="category"/>
+  <properties
+      key="dcat:accessURL"
+      value="access_url"/>
+  <properties
+      key="dcat:contactPoint"
+      value="contact_point"/>
+  <properties
+      key="dcat:dataset"
+      value="repository"/>
+  <properties
+      key="dcat:distributionasset"
+      value="[reuse planned, already reused]"/>
+  <properties
+      key="dcat:downloadURL"
+      value="download_url"/>
+  <properties
+      key="dcat:keyword"
+      value="keyword"/>
+  <properties
+      key="dcat:landingPage"
+      value="landing_page"/>
+  <properties
+      key="dcat:mediaType"
+      value="media_type"/>
+  <properties
+      key="dct:description"
+      value="description"/>
+  <properties
+      key="dct:format"
+      value="file_format"/>
+  <properties
+      key="dct:issued"
+      value="created"/>
+  <properties
+      key="dct:language"
+      value="language"/>
+  <properties
+      key="dct:license"
+      value="license"/>
+  <properties
+      key="dct:modified"
+      value="modified"/>
+  <properties
+      key="dct:publisher"
+      value="publisher"/>
+  <properties
+      key="dct:relation"
+      value="relation"/>
+  <properties
+      key="dct:spatial"
+      value="spatial_coverage"/>
+  <properties
+      key="dct:temporal"
+      value="period_of_time"/>
+  <properties
+      key="dct:type"
+      value="type or category"/>
+  <properties
+      key="doap:release"
+      value="project"/>
+  <properties
+      key="domain"
+      value="[ Agriculture, fisheries and foods | Business | Climate action | Cross-cutting policies | Culture, education and youth | Economy, finance and tax | Employment and social rights | Energy and natural resources | Environment consumers and health | External relations and foreign affairs | Internal Market | Justice and citizens' rights | Regions and local development | Science and technologies | Transport and travel | Other ]"/>
+  <properties
+      key="eif_principle1"
+      value="subsidiarity and proportionality"/>
+  <properties
+      key="eif_principle10"
+      value="reusability"/>
+  <properties
+      key="eif_principle11"
+      value="technological neutrality and adaptability"/>
+  <properties
+      key="eif_principle12"
+      value="effectiveness and efficiency"/>
+  <properties
+      key="eif_principle2"
+      value="user-centricity"/>
+  <properties
+      key="eif_principle3"
+      value="inclusion and accessibility"/>
+  <properties
+      key="eif_principle4"
+      value="security and privacy"/>
+  <properties
+      key="eif_principle5"
+      value="multilingualism"/>
+  <properties
+      key="eif_principle6"
+      value="administrative simplification"/>
+  <properties
+      key="eif_principle7"
+      value="transparency"/>
+  <properties
+      key="eif_principle8"
+      value="preservation of information"/>
+  <properties
+      key="eif_principle9"
+      value="openness"/>
+  <properties
+      key="foaf:page"
+      value="documentation"/>
+  <properties
+      key="ID"
+      value="unique identifier"/>
+  <properties
+      key="interoperability_type"
+      value="[Collaboration agreement | Provider agreement | Service agreement]"/>
+  <properties
+      key="owl:versionInfo"
+      value="version_number"/>
+  <properties
+      key="process_category"/>
+  <properties
+      key="re-usability"/>
+  <properties
+      key="re-usability_bool"
+      value="[ yes | no ]"/>
+  <properties
+      key="requirement_or_constraint"
+      value="[ Requirement | Constraint ]"/>
+  <properties
+      key="schema:fileSize"
+      value="file_size"/>
+  <properties
+      key="skos:altLabel"
+      value="alternative_name"/>
+  <properties
+      key="spdx:checksum"
+      value="checksum"/>
+  <properties
+      key="wrds:describedBy"
+      value="main_documentation"/>
+  <properties
+      key="nature"
+      value="[ Structured | Unstructured ]"/>
+  <properties
+      key="representation_technique"/>
+  <properties
+      key="policy_area_extension"
+      value="[ yes | no ]"/>
+  <properties
+      key="dct:title"/>
+  <properties
+      key="secure_access"/>
+  <properties
+      key="processing"/>
+  <properties
+      key="storage"/>
+</archimate:ArchimateModel>

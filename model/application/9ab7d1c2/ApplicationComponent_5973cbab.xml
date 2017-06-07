@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Service Infrastructure"
+    id="5973cbab"
+    documentation="A Digital Service Infrastructure is a collection of cross-sectorial infrastructure services and components. They are decoupled from the business which a specific interoperable solution implements. They can be re-used with no or very minor changes by other interoperable solutions or in different policy contexts. [CEF]&#xD;&#xA;&#xD;&#xA;Source: http://ec.europa.eu/digital-agenda/en/connecting-europe-facility&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB188"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Strategy"
+    id="d15e691b"
+    documentation="An Interoperability Strategy is a long term plan addressing interoperability strategic objectives. Example is the European Interoperability Strategy at European level.&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB208"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="signs"
+    id="ff1c5bab"
+    documentation="An [Organisation] signs an [Interoperability Agreement]">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_bd38f75f.xml#bd38f75f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7cc1e5b6.xml#7cc1e5b6"/>
+</archimate:AssociationRelationship>

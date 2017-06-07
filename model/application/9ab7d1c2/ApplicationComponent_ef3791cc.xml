@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Component"
+    id="ef3791cc"
+    documentation="A Content Management Component encapsulates the functionalities for the organisation and categorization of information resources.&#xA;">
+  <properties
+      key="ID"
+      value="ABB75"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

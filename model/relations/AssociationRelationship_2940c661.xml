@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="defines the interoperability aspects for"
+    id="2940c661"
+    documentation="A [Semantic Interoperability Specification] defines the interoperability aspects for a [Data Standard Catalogue] (contents and the catalogue as a whole).">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_2f08799e.xml#2f08799e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_10357678.xml#10357678"/>
+</archimate:AssociationRelationship>

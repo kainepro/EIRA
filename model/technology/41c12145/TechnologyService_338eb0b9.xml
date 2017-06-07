@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Networking Service"
+    id="338eb0b9"
+    documentation="A Networking Service is a service provided by a network provider. [DIGIT C Infrastructure Services Provision]&#xA;">
+  <properties
+      key="ID"
+      value="ABB150"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

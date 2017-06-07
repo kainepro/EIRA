@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Interoperability Specification"
+    id="e3332dd3"
+    documentation="A Legal Interoperability Specification defines a necessary attribute that shall be fully met to support legal interoperability in the Public Policy Cycle.">
+  <properties
+      key="ID"
+      value="ABB175"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

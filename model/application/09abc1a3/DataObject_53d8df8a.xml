@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Standard"
+    id="53d8df8a"
+    documentation="A data standard is a structural metadata specification that describes or defines other data [ISO111179]. Structural metadata indicates how compound objects are put together [NISO]. It can consist of among others data models, reference data, and identifier schemas.">
+  <properties
+      key="ID"
+      value="ABB183"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

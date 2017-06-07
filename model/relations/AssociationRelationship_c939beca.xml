@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has its interoperability aspects defined by"
+    id="c939beca"
+    documentation="A [Service Registry Component] has its interoperability aspects defined by a [Technical Interoperability Specification]">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f29ba44a.xml#f29ba44a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_083ad8d6.xml#083ad8d6"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Syntax Encoding Scheme"
+    id="fcc839db"
+    documentation="A Syntax Encoding Scheme indicates that the value is a string formatted in accordance with a formal notation [DCMI Glossary], such as ‘2000-01-01’ as the standard expression of a date. Another example is CSV [Source: http://wiki.dublincore.org/index.php/Glossary/Encoding_Scheme].">
+  <properties
+      key="ID"
+      value="ABB184"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

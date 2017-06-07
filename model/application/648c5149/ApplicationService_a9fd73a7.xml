@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging Service"
+    id="a9fd73a7"
+    documentation="An Logging Service traces all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB59"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="ABB_Status"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

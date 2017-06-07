@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="uses"
+    id="c6ec6cb6"
+    documentation="A [Public Service Consumer] uses a [Service Delivery Model] to consume a [Public Service]">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_a549c619.xml#a549c619"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_6a0c39d3.xml#6a0c39d3"/>
+</archimate:ServingRelationship>

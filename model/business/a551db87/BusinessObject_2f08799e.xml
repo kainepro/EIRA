@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Interoperability Specification"
+    id="2f08799e"
+    documentation="A Semantic Interoperability Specification defines a necessary attribute that shall be fully met to support semantic interoperability.&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB177"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchange Service"
+    id="eb18f900"
+    documentation="A Data Exchange Service enables the secure exchange of messages, records, forms and other kinds of data between different ICT systems. This includes data routing, except endpoint discovery. [European Interoperability Framework]&#xD;&#xA;&#xD;&#xA;Source: &#xD;&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf&#xA;">
+  <properties
+      key="ID"
+      value="ABB43"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

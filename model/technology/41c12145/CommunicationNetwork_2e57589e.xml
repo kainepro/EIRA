@@ -1,0 +1,21 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Network"
+    id="2e57589e"
+    documentation="A Private Network is a network that is used for the only purpose of realising the physical communication among Interoperable European Solution (e.g. sTESTA), and cannot be accessed by the public.&#xA;">
+  <properties
+      key="ID"
+      value="ABB93"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="reusability"
+      value="[ reuse planned | already reused ]"/>
+  <properties
+      key="reusability_bool"
+      value="[ yes | no ]"/>
+</archimate:CommunicationNetwork>

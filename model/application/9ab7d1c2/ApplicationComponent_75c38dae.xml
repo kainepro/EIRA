@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Payment Component"
+    id="75c38dae"
+    documentation="An e-Payment Component encapsulates the functionalities for execution or electronic payments.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB68"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:title"
+      value="e-Payment Component"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

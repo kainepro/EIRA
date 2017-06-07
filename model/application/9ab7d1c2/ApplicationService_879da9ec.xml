@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Translation Service"
+    id="879da9ec"
+    documentation="A Machine Translation Service enables the automatic translation of data in form of plain text from one EU language to another EU language (or to a set of other EU languages).&#xA;">
+  <properties
+      key="ID"
+      value="ABB41"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

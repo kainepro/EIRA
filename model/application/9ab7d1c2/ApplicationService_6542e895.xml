@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Management Service"
+    id="6542e895"
+    documentation="A Metadata Management Service enables the creation, storage, categorisation and retrieval of metadata. [DAMA]&#xD;&#xA;&#xD;&#xA;Source: http://www.dama.org/">
+  <properties
+      key="ID"
+      value="ABB52"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

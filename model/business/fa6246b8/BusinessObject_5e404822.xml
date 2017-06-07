@@ -1,0 +1,17 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Procedure"
+    id="5e404822"
+    documentation="An Organisational Procedure is a step-by-step description of the tasks required to support and carry out organizational policies.">
+  <properties
+      key="ID"
+      value="ABB207"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="process_category"/>
+</archimate:BusinessObject>

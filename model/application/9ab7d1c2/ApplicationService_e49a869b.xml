@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messaging Service"
+    id="e49a869b"
+    documentation="A Messaging Service enables real-time transmission of text over the internet.&#xA;">
+  <properties
+      key="ID"
+      value="ABB53"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

@@ -1,0 +1,17 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Information Exchange"
+    id="e8ba4e86"
+    documentation="A Business Information Exchange is an interaction between two or more public administrations, businesses or citizens.&#xD;&#xA;&#xD;&#xA;Source: Based on UN/CEFACT Modelling Methodology (UMM)&#xD;&#xA;http://www.unece.org/cefact/umm/umm_index.html">
+  <properties
+      key="ID"
+      value="ABB170"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="category"/>
+</archimate:BusinessInteraction>

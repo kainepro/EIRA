@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Framework"
+    id="3c837217"
+    documentation="An Interoperability Framework is a set of interoperability principles, rules, and guidelines in an organisation. Examples are EIF at European level and National schemas of IOP at national level.">
+  <properties
+      key="ID"
+      value="ABB206"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

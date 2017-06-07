@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Skill"
+    id="c5cb982d"
+    documentation="A set of skills and competencies that, being developed and applied, allow the organisation to achieve excellent results in the field of Interoperability (adapted from González-Cruz et al. 2009).">
+  <properties
+      key="ID"
+      value="ABB220"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

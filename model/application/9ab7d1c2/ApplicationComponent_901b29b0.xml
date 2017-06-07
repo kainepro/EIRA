@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Translation Component"
+    id="901b29b0"
+    documentation="A Machine Translation Component encapsulates the machine translation functionalities exposed through the Machine Translation Service.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB62"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

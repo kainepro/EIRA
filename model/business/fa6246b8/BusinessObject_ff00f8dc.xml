@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Information"
+    id="ff00f8dc"
+    documentation="Business Information is a piece of business data or a group of pieces of business data with a unique business semantics definition in a specific business context [source: ISO15000-5, UN/CEFACT CCTS].">
+  <properties
+      key="ID"
+      value="ABB13"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

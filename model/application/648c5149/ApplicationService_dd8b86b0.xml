@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Analytics Service"
+    id="dd8b86b0"
+    documentation="A Business Analytics Service enables the storage and manipulation of dimensional data models for the analysis of business trends and projections. [DAMA]">
+  <properties
+      key="ID"
+      value="ABB46"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

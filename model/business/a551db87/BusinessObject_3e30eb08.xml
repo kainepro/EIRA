@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Specification"
+    id="3e30eb08"
+    documentation="An Organisational Interoperability Specification defines a necessary attribute that shall be fully met to support organisational interoperability.">
+  <properties
+      key="ID"
+      value="ABB176"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Management Component"
+    id="72d55887"
+    documentation="A Metadata Management Component encapsulates the functionalities for the management of metadata.&#xA;">
+  <properties
+      key="ID"
+      value="ABB74"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

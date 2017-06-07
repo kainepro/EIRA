@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is included in"
+    id="50f0473f"
+    documentation="A [Public Policy Formulation and Implementation Instrument] is included in a [Legislation Catalogue]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_2d6f43d3.xml#2d6f43d3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1eb97ddc.xml#1eb97ddc"/>
+</archimate:AssociationRelationship>

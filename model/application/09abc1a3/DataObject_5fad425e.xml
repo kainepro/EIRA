@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Representation"
+    id="5fad425e"
+    documentation="A Representation is a physical embodiment or manifestation of data [based on the Functional Requirements for Bibliographic Records]. It is the perceptible form of information carried by a business object [based on ArchiMate].">
+  <properties
+      key="ID"
+      value="ABB182"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="representation_technique"/>
+</archimate:DataObject>

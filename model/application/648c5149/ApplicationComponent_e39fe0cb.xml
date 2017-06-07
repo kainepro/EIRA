@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management Component"
+    id="e39fe0cb"
+    documentation="An Access Management Component encapsulates the functionalities  to authorize users exposed through the Access Management Service.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB70"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

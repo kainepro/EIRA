@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Report"
+    id="011d95dc"
+    documentation="A Test Report documents the results of verifying the behaviour of one or more test item(s) or system(s) under test. It is making a conformance or interoperability assessment.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB131"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

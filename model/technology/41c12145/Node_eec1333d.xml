@@ -1,0 +1,21 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting Facility"
+    id="eec1333d"
+    documentation="A Hosting Facility is usually embodied in a building and the equipment supporting the hosting of Interoperable European Solutions and their components.&#xD;&#xA;[DIGIT C Infrastructure Services Provision]&#xA;">
+  <properties
+      key="ID"
+      value="ABB191"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="secure_access"/>
+  <properties
+      key="processing"/>
+  <properties
+      key="storage"/>
+</archimate:Node>

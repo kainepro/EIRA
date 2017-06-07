@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Service Delivery Agent"
+    id="a62403b5"
+    documentation="A Public Service Delivery Agent delivers a public service on behalf of a Service Providers. An example of this would be pharmacies that deliver a service 'on the behalf of' the Ministry of Health. In this case the pharmacies would be captured as a Service Delivery Agent whereas the Service Provider would be the Ministry of Health.">
+  <properties
+      key="ID"
+      value="ABB173"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessRole>

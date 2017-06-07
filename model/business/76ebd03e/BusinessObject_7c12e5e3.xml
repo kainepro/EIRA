@@ -1,0 +1,20 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy"
+    id="7c12e5e3"
+    documentation="A Public Policy is the whole of actions under a policy domain taken by a public authority to bring about social change in the medium and long term. It is based on certain values and objectives and is implemented using a variety of methods. It applies on the territory within which the authority is authorised to act. [Source: EuroVoc,  http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en ].">
+  <properties
+      key="ID"
+      value="ABB9"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="dct:spatial"/>
+  <properties
+      key="domain"
+      value="[ Agriculture, fisheries and foods | Business | Climate action | Cross-cutting policies | Culture, education and youth | Economy, finance and tax | Employment and social rights | Energy and natural resources | Environment consumers and health | External relations and foreign affairs | Internal Market | Justice and citizens' rights | Regions and local development | Science and technologies | Transport and travel | Other ]"/>
+</archimate:BusinessObject>

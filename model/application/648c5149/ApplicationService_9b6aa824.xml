@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Choreography Service"
+    id="9b6aa824"
+    documentation="The Choreography Service is  the interplay among groups of services which, in turn, make up a larger, composite service, or which interact across organisational boundaries in order to obtain and process information. [W3C]&#xA;&#xA;Source: http://www.w3.org/TR/ws-cdl-10/&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB44"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

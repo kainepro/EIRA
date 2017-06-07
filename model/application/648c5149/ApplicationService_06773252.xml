@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Service"
+    id="06773252"
+    documentation="A Test Service enables the execution of interoperability and conformance testing. A Test Service is realised by one or more Test Components.&#xA;">
+  <properties
+      key="ID"
+      value="ABB128"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

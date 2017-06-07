@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="supports"
+    id="c63eaf7b"
+    documentation="An [Interoperable European Solution] supports a [Public Policy]">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a2f92dc8.xml#a2f92dc8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7c12e5e3.xml#7c12e5e3"/>
+</archimate:AssociationRelationship>

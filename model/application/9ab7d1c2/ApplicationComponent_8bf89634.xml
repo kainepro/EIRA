@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Management Component"
+    id="8bf89634"
+    documentation="A Record Management Component encapsulates the functionalities for the classification, storage, archiving, and destruction of electronic records.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB76"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaboration Component"
+    id="f6758225"
+    documentation="A Collaboration Component encapsulates the functionalities for  transmission of text and broadcasting of audio and video content.&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB72"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

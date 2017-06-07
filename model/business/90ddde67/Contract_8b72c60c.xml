@@ -1,0 +1,15 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Policy"
+    id="8b72c60c"
+    documentation="A data policy is a short statement of management intent and fundamental rules governing the creation, acquisition, integrity, security, quality, and use of data and information [source: DAMA DM_BOK, http://www.dama.org.]. A data policy can be among others the following:&#xD;&#xA;- information security policy;&#xD;&#xA;- privacy policy;&#xD;&#xA;- licensing and charging policy ;&#xD;&#xA;- data quality policy; and&#xD;&#xA;- metadata management policy.">
+  <properties
+      key="ID"
+      value="ABB30"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:Contract>

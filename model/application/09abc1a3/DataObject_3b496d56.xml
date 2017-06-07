@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Descriptive Metadata"
+    id="3b496d56"
+    documentation="Descriptive metadata describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.&#xD;&#xA;&#xD;&#xA;Source: &#xD;&#xA;http://www.niso.org/publications/press/UnderstandingMetadata.pdf ">
+  <properties
+      key="ID"
+      value="ABB195"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

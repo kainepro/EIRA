@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Formulation and Implementation Instrument"
+    id="1eb97ddc"
+    documentation="A Public Policy Formulation and Implementation Instrument is an instrument that support the formulation and implementation of the policy.">
+  <properties
+      key="ID"
+      value="ABB168"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

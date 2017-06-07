@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Seal Creation Service"
+    id="0b46d753"
+    documentation="An e-Seal Creation Service is used to sign data in electronic form on behalf of a legal person.  &#xD;&#xA;&#xD;&#xA;According to the eIDAS Regulation, an ‘electronic seal’ means data in electronic form, which is attached to or logically associated with other data in electronic form to ensure the latter’s origin and integrity. The ‘creator of a seal’ is a legal person who creates an electronic seal.&#xD;&#xA;&#xD;&#xA;Source: REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;&#xA;&#xA;">
+  <properties
+      key="ID"
+      value="ABB198"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:title"
+      value="e-Seal Creation Service"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

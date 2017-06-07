@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="implements"
+    id="720d2263"
+    documentation="A [Public Service] implements a [Public Policy]">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_502fa249.xml#502fa249"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7c12e5e3.xml#7c12e5e3"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration and Cartography Service Component"
+    id="14518492"
+    documentation="A Configuration and Cartography Service Component encapsulates the functionalities for documenting the configuration and architecture of solutions.">
+  <properties
+      key="ID"
+      value="ABB213"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

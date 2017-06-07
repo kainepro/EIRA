@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management Service"
+    id="e01cc8db"
+    documentation="An Access Management Service provides the mechanisms to ensure that only authorized users can access and perform actions on IT resources.">
+  <properties
+      key="ID"
+      value="ABB57"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

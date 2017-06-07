@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Model"
+    id="feefaead"
+    documentation="A Data Model includes formal data names, comprehensive data definitions, proper data structures and precise data integrity rules  [source: DAMA DM_BOK, http://www.dama.org].&#xA;">
+  <properties
+      key="ID"
+      value="ABB26"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:DataObject>

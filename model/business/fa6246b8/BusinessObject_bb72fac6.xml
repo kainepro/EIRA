@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Rule"
+    id="bb72fac6"
+    documentation="A Business Rule is a statement that defines or constrains some aspect of the business.  It is intended to assert business structure, or to control or influence the behaviour of the business.&#xD;&#xA;&#xD;&#xA;Source: Business Rules Group; http://www.businessrulesgroup.org/defnbrg.shtml">
+  <properties
+      key="ID"
+      value="ABB16"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

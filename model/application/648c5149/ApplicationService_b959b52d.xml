@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service"
+    id="b959b52d"
+    documentation="An Application Service is an externally visible unit of functionality, provided by one or more application components. It is exposed through well-defined interfaces and is meaningful to the environment. A Application Service exposes the functionality of components to their environment. This functionality is accessed through one or more application interfaces.">
+  <properties
+      key="ID"
+      value="ABB187"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationService>

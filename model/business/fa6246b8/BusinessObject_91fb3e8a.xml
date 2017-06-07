@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Skill"
+    id="91fb3e8a"
+    documentation="A set of skills and competencies that, being developed and applied, allow the organisation to perform a certain role in an excellent way (González-Cruz et al. 2009).">
+  <properties
+      key="ID"
+      value="ABB219"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

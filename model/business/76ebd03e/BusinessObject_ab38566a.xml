@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Enabler"
+    id="ab38566a"
+    documentation="An Operational Enabler is an organisation, person, object or event that makes it possible to implement the policy. [Oxford Dictionary]&#xD;&#xA;&#xD;&#xA;Source: http://www.oxforddictionaries.com/definition/english/enabler">
+  <properties
+      key="ID"
+      value="ABB166"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:BusinessObject>

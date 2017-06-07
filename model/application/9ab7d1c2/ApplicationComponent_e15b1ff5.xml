@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration Component"
+    id="e15b1ff5"
+    documentation="An Administration Component encapsulates the functionalities for the administration, monitoring and lifecycle management of services. [SOA Backplane Reference Model of Gartner]">
+  <properties
+      key="ID"
+      value="ABB139"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:ApplicationComponent>

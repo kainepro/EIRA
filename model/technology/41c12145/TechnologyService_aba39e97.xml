@@ -1,0 +1,15 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting and Networking Infrastructure Service"
+    id="aba39e97"
+    documentation="A Hosting and Networking Infrastructure Service is a collection of services for hosting Interoperable European Solutions and provides the necessary networks for operating these solutions.&#xA;">
+  <properties
+      key="ID"
+      value="ABB190"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:TechnologyService>

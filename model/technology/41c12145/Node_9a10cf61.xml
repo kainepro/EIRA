@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Hosting Facility"
+    id="9a10cf61"
+    documentation="A Private Hosting Facility is a Hosting Facility which is owned by or dedicated to one organization (e.g. data centre or private cloud).&#xA;">
+  <properties
+      key="ID"
+      value="ABB192"/>
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+</archimate:Node>
